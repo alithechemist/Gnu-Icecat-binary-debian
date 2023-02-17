@@ -1,5 +1,5 @@
 # Gnu-Icecat-binary-debian
 
-![Icecat](artwork/logo.png)
+![Icecat](artwork/logo.svg)
 
 Binary distribution of Icecat for Debian
